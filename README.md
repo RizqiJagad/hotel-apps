@@ -41,12 +41,10 @@ Jika Anda belum mengkloning proyek ini, jalankan perintah berikut:
 git clone [URL-repositori-Anda]
 cd hotel-apps
 
-```bash
 npm install
 # atau
 yarn install
 
-```bash
 npm run dev
 # atau
 yarn dev
